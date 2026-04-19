@@ -14,6 +14,12 @@ Sistema de gestión académica desarrollado en Java que permite administrar alum
   - **State**: Para gestionar estados de cursadas
   - **Strategy**: Para diferentes condiciones de inscripción
 
+## Arquitectura del Proyecto
+
+A continuación se detalla el diagrama de clases del integrador:
+
+![Diagrama de Clases UML del Integrador](assets/diagrama-clases.png)
+
 ## 📋 Requisitos
 
 - Java 8 o superior
