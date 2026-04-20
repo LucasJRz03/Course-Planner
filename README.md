@@ -30,7 +30,7 @@ A continuación se detalla el diagrama de clases del integrador:
 1. Clonathe el repositorio:
 ```bash
 git clone https://github.com/LucasJRz03/Course-Planner.git
-cd tp-integrador-java
+cd Course-Planner
 ```
 
 2. Compila el proyecto:
