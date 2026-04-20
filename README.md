@@ -1,4 +1,4 @@
-# Trabajo Integrador - Gestión de Cursadas
+# Trabajo Integrador (TUDA - UNTDF) - Gestión de Cursadas
 
 Sistema de gestión académica desarrollado en Java que permite administrar alumnos, carreras, materias y cursadas. Implementa patrones de diseño como Builder, State y Strategy para una arquitectura limpia y escalable.
 
@@ -29,7 +29,7 @@ A continuación se detalla el diagrama de clases del integrador:
 
 1. Clonathe el repositorio:
 ```bash
-git clone https://github.com/LucasJRz03/tp-integrador-java.git
+git clone https://github.com/LucasJRz03/Course-Planner.git
 cd tp-integrador-java
 ```
 
