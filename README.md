@@ -119,4 +119,4 @@ SOFTWARE.
 
 ## 📧 Contacto
 
-Para consultas o sugerencias, contacta a: rodriguezlucasjesus196@gmail.com
+ rodriguezlucasjesus196@gmail.com
